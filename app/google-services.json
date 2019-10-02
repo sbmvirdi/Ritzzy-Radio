@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1076996416315",
+    "firebase_url": "https://ritzzyradio-457ae.firebaseio.com",
+    "project_id": "ritzzyradio-457ae",
+    "storage_bucket": "ritzzyradio-457ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076996416315:android:7bca789a5e6769c4",
+        "android_client_info": {
+          "package_name": "cf.rittzyradio.ritzzyradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076996416315-nodnn25l18cd8hi8bt9gghktr93hb5is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cf.rittzyradio.ritzzyradio",
+            "certificate_hash": "6f6a003bc65cf30048627b7454459c3a6befa17d"
+          }
+        },
+        {
+          "client_id": "1076996416315-30rqnncds9orspc6n4rft8mcjs30unqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTLVfhvucUfbjekQf80PyYgdyJIC9eRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076996416315-30rqnncds9orspc6n4rft8mcjs30unqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076996416315:android:a79a7ba991c3c876",
+        "android_client_info": {
+          "package_name": "cf.ritzzyradio.ritzzyforemployees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076996416315-s2oubkcqq4ndbc958uu8obgh8bfo3cqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cf.ritzzyradio.ritzzyforemployees",
+            "certificate_hash": "6f6a003bc65cf30048627b7454459c3a6befa17d"
+          }
+        },
+        {
+          "client_id": "1076996416315-30rqnncds9orspc6n4rft8mcjs30unqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTLVfhvucUfbjekQf80PyYgdyJIC9eRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076996416315-30rqnncds9orspc6n4rft8mcjs30unqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    >
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/panda_no_internet"
+        android:contentDescription="@string/no_internet_connection_image" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No Internet"
+        android:textSize="40sp"
+        android:fontFamily="@font/roboto_medium"
+        android:gravity="center"
+        android:layout_marginBottom="100dp"
+        android:id="@+id/no_internet_text"
+        android:layout_alignParentBottom="true"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Samaj me aaaya kya?"
+        android:textSize="20sp"
+        android:fontFamily="@font/roboto_medium"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:layout_marginBottom="80dp"
+        />
+
+</RelativeLayout>
